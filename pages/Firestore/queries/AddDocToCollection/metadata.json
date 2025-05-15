@@ -61,9 +61,9 @@
         "key": "formData.body.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "AddDocToCollection",
     "pageId": "Firestore",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

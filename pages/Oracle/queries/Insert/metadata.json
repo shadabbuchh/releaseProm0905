@@ -29,9 +29,9 @@
         "key": "formData.body.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "Insert",
     "pageId": "Oracle",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

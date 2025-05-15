@@ -22,9 +22,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "Insert",
     "pageId": "Redshift",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

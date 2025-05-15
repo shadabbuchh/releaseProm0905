@@ -33,9 +33,9 @@
         "key": "formData.send.attachments"
       }
     ],
-    "executeOnLoad": false,
     "name": "Sendmail",
     "pageId": "SMTP",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
